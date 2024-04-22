@@ -1,0 +1,22 @@
+.btn {
+  margin: 20px;
+  text-align: right;
+}
+#timer {
+  margin: 250px auto;
+  text-align: center;
+}
+div {
+  text-align: center;
+  margin: auto;
+}
+body{
+    background-image: repeating-linear-gradient(45deg, hsla(307,0%,65%,0.05) 0px, hsla(307,0%,65%,0.05) 1px,transparent 1px, transparent 11px,hsla(307,0%,65%,0.05) 11px, hsla(307,0%,65%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(135deg, hsla(307,0%,65%,0.05) 0px, hsla(307,0%,65%,0.05) 1px,transparent 1px, transparent 11px,hsla(307,0%,65%,0.05) 11px, hsla(307,0%,65%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(90deg, hsla(307,0%,65%,0.05) 0px, hsla(307,0%,65%,0.05) 1px,transparent 1px, transparent 11px,hsla(307,0%,65%,0.05) 11px, hsla(307,0%,65%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(0deg, hsla(307,0%,65%,0.05) 0px, hsla(307,0%,65%,0.05) 1px,transparent 1px, transparent 11px,hsla(307,0%,65%,0.05) 11px, hsla(307,0%,65%,0.05) 12px,transparent 12px, transparent 32px),linear-gradient(90deg, rgb(152, 152, 152),rgb(96, 96, 96));
+}
+h1{
+    margin: 30px;
+    
+}
+i{
+    color: rgb(53, 52, 52)
+}
